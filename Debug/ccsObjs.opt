@@ -1,0 +1,1 @@
+"./lcd.obj" "./main.obj" "./numberUtils.obj" "./strUtils.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
